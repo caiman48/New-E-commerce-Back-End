@@ -12,6 +12,13 @@ This project aims to provide a robust backend for an e-commerce website, utilizi
 
 
 
+https://github.com/caiman48/New-E-commerce-Back-End/assets/102683872/4eb6b4c7-b828-41a1-b8cb-376520090d33
+
+
+
+
+https://www.loom.com/share/23746b607c574d44b2c2cbf6f88b0c56?sid=72b58b8c-45a4-4074-978b-68cbae659e13
+
 
 1. **Clone the repository:**
    
