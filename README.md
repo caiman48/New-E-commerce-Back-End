@@ -25,9 +25,7 @@ DB_PW='your_password'
 # Usage
 
 1. **Create and seed the database**
-
-npm run schema
-npm run seed
+navigate to the db folder and run : mysql -u root -p , enter your password for mysql then run " source schema.sql to create the database close mysql by writing "quit" and in the command line run " node seeds/index.js
 
 2. **Start the server:**
 npm start
